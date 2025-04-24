@@ -1,2 +1,0 @@
-anchor tag is used for hyper link 
-if frame is used for using some other webites
